@@ -1,0 +1,13 @@
+The camera matrix is the following:
+
+ss any key and ENTER to end the application!xterm-256color
+
+
+pixel size:
+
+0.0034499999999999999
+
+
+focal length:
+
+

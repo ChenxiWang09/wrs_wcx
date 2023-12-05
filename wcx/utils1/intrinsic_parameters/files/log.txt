@@ -1,0 +1,3 @@
+This tool will connect to first attached scanner and will set the settings written down in settings.txt to the connected device. To store the changes, the set and store routine has to be performed.
+Connection was not successful!!!
+Press any key and ENTER to end the application!xterm-256color
